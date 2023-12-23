@@ -1,4 +1,4 @@
-###                           Hi there 👋 I am MD Saifur Rahman
+### Hi there 👋 I am MD Saifur Rahman
 
 A frontend-centric web developer, skillful at designing and developing high-quality websites that play a 
 central role in leading overall business success. 
@@ -8,3 +8,4 @@ latest developments in the field.
 - 🔭 I’m currently working as a front-end Web Developer
 - 🌱 I’m currently learning WordPress
 - 📫 How to reach me: saifurrahmansaif954@gmail.com
+- Skills: HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, WordPress and MySQL.
