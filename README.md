@@ -8,4 +8,4 @@ latest developments in the field.
 - 🔭 I’m currently working as a front-end Web Developer
 - 🌱 I’m currently learning WordPress
 - 📫 How to reach me: saifurrahmansaif954@gmail.com
-- Skills: HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, WordPress and MySQL.
+- 📖 Skills: HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, WordPress and MySQL.
