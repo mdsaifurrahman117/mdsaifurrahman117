@@ -9,3 +9,4 @@ latest developments in the field.
 - 🌱 I’m currently learning WordPress.
 - 📫 How to reach me: saifurrahmansaif954@gmail.com.
 - 📖 Skills: HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL and WordPress.
+- 📖 Others : VS Code, GitHub, Netlify and Figma.
