@@ -9,8 +9,8 @@ latest developments in the field.
 - 🌱 I’m currently learning WordPress
 - 📫 How to reach me: saifurrahmansaif954@gmail.com
 - 📖 Skills:
--           Language : HTML, CSS, JavaScript.
--           Client side : Bootstrap, jQuery.
--           Server side : PHP.
--           Database : MySQL.
--           CMS : WordPress.
+            Language : HTML, CSS, JavaScript.
+            Client side : Bootstrap, jQuery.
+            Server side : PHP.
+            Database : MySQL.
+            CMS : WordPress.
