@@ -5,12 +5,7 @@ central role in leading overall business success.
 In addition to my professional work, I am passionate about self-learning and staying up-to-date with the 
 latest developments in the field.
 
-- 🔭 I’m currently working as a front-end Web Developer
-- 🌱 I’m currently learning WordPress
-- 📫 How to reach me: saifurrahmansaif954@gmail.com
-- 📖 Skills:
-            Language : HTML, CSS, JavaScript.
-            Client side : Bootstrap, jQuery.
-            Server side : PHP.
-            Database : MySQL.
-            CMS : WordPress.
+- 🔭 I’m currently working as a front-end Web Developer.
+- 🌱 I’m currently learning WordPress.
+- 📫 How to reach me: saifurrahmansaif954@gmail.com.
+- 📖 Skills: HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL and WordPress.
