@@ -6,7 +6,7 @@ In addition to my professional work, I am passionate about self-learning and sta
 latest developments in the field.
 
 - 🔭 I’m currently working as a front-end Web Developer.
-- 🌱 I’m currently learning MERN and Next.js.
+- 🌱 I’m currently learning MERN and NEXT.
 - 📫 How to reach me: saifurrahmansaif954@gmail.com.
 - 📖 Skills: HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL and WordPress.
 - 📖 Others : VS Code, GitHub, Netlify and Figma.
