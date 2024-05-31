@@ -1,4 +1,4 @@
-[banner link](https://github.com/mdsaifurrahman117/mdsaifurrahman117/blob/main/hero-bg.jpg)
+![banner link](https://github.com/mdsaifurrahman117/mdsaifurrahman117/blob/main/hero-bg.jpg)
 
 <h1 align="center">Hi 👋, I'm MD Saifur Rahman</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
