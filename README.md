@@ -18,7 +18,7 @@ I'm a frontend-based web developer, skillful at designing and developing high-qu
 ![GitHub metrics](https://metrics.lecoq.io/mdsaifurrahman117)  
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" gap="5"> 
+<p align="left"> 
   
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -62,7 +62,7 @@ I'm a frontend-based web developer, skillful at designing and developing high-qu
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifurrahman117)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsaifurrahman117&show_icons=true&locale=en&layout=compact" alt="mdsaifurrahman117" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaifurrahman117&" alt="mdsaifurrahman117" /></p>
 
