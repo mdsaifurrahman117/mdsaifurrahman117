@@ -71,6 +71,6 @@ I'm a frontend-based web developer, skillful at designing and developing high-qu
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mdsaifurrahman117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdsaifurrahman117" height="30" width="40" /></a>
-<a href="https://fb.com/mdsaifurrahman117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsaifurrahman117" height="30" width="40" /></a>
+<a href="https://facebook.com/mdsaifurrahman117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsaifurrahman117" height="30" width="40" /></a>
 <a href="https://instagram.com/mdsaifurrahman117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdsaifurrahman117" height="30" width="40" /></a>
 </p>
