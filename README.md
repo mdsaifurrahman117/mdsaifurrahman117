@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm MD Saifur Rahman</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 
-I'm a frontend-based web developer, skillful at designing and developing high-quality websites that play a central role in leading overall business success. In addition to my professional work, I am passionate about self-learning and staying up-to-date with the latest developments in the field
+I'm a frontend-based web developer, skillful at designing and developing high-quality websites that play a central role in leading overall business success. In addition to my professional work, I am passionate about self-learning and staying up-to-date with the latest developments in the field.
 
-- 🔭 I’m currently working on **frontend developer**
+- 🔭 I’m currently working on **frontend developer.**
 
-- 🌱 I’m currently learning **MERN and NEXT**
+- 🌱 I’m currently learning **MERN stack and NEXT JS.**
 
 - 👨‍💻 All of my projects are available at [https://md-saifur-rahman-portfolio.netlify.app/](https://md-saifur-rahman-portfolio.netlify.app/)
 
@@ -35,7 +35,7 @@ I'm a frontend-based web developer, skillful at designing and developing high-qu
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
-  
+
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </a>
@@ -47,7 +47,7 @@ I'm a frontend-based web developer, skillful at designing and developing high-qu
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
-  
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a>  
@@ -62,11 +62,11 @@ I'm a frontend-based web developer, skillful at designing and developing high-qu
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsaifurrahman117&show_icons=true&locale=en&layout=compact" alt="mdsaifurrahman117" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifurrahman117&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaifurrahman117&" alt="mdsaifurrahman117" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsaifurrahman117&show_icons=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsaifurrahman117&show_icons=true&locale=en" alt="mdsaifurrahman117" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mdsaifurrahman117) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
