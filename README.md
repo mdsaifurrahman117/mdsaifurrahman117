@@ -15,10 +15,6 @@ I'm a frontend-based web developer, skillful at designing and developing high-qu
 
 - 📄 Know about my experiences [https://mdsaifurrahman-resume.netlify.app/](https://mdsaifurrahman-resume.netlify.app/)
 
-![GitHub metrics](https://metrics.lecoq.io/mdsaifurrahman117)  
-
-![GitHub metrics](https://github.com/mdsaifurrahman117/mdsaifurrahman117/blob/main/github-metrics.svg)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
