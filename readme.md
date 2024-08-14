@@ -51,7 +51,7 @@ I'm a frontend-based web developer, skillful at designing and developing high-qu
 </a>
 
 <a href="https://www.react.dev/" target="_blank" rel="noreferrer"> 
-  <img src="assets/react.png" width="50px" height="50px">
+  <img src="assets/React.png" width="50px" height="50px">
 </a>
 
 <a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"> 
@@ -83,7 +83,7 @@ I'm a frontend-based web developer, skillful at designing and developing high-qu
 </a>
 
 <a href="https://www.w3schools.com/mysql/" target="_blank" rel="noreferrer"> 
-  <img src="assets/mysql.png" width="50px" height="50px">
+  <img src="assets/MySQL.png" width="50px" height="50px">
 </a>
 
 <a href="https://www.wordpress.org/" target="_blank" rel="noreferrer"> 
