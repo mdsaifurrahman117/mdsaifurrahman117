@@ -59,7 +59,7 @@ I'm a frontend-based web developer, skillful at designing and developing high-qu
 </a>
 
 <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> 
-  <img src="assets/framer.png" width="50px" height="50px">
+  <img src="assets/framer-motion.png" width="50px" height="50px">
 </a>
 
 <a href="https://www.jwt.io/" target="_blank" rel="noreferrer"> 
