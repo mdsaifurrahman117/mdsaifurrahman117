@@ -16,51 +16,54 @@ I'm a frontend-based web developer, skillful at designing and developing high-qu
 - 📄 Know about my experiences [https://mdsaifurrahman-resume.netlify.app/](https://mdsaifurrahman-resume.netlify.app/)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="center">
+<img src="assets/c-language.png" width="200px" height="200px">
 
-<img src="assets/c-language.png" width="250px" height="250px">
+<img src="assets/html.png" width="200px" height="200px">
 
-<img src="assets/html.png" width="250px" height="250px">
+<img src="assets/css.png" width="200px" height="200px">
+</p>
 
-<img src="assets/css.png" width="250px" height="250px">
+<p align="center">
+<img src="assets/sass.png" width="200px" height="200px">
 
-<img src="assets/sass.png" width="250px" height="250px">
+<img src="assets/bootstrap.png" width="200px" height="200px">
 
-<img src="assets/bootstrap.png" width="250px" height="250px">
+<img src="assets/tailwind.png" width="200px" height="200px">
+</p>
+<p align="center">
+<img src="assets/javascript.png" width="200px" height="200px">
 
-<img src="assets/tailwind.png" width="250px" height="250px">
+<img src="assets/jquery.png" width="200px" height="200px">
 
-<img src="assets/javascript.png" width="250px" height="250px">
+<img src="assets/php.png" width="200px" height="200px">
+</p>
+<p align="center">
+<img src="assets/mysql.png" width="200px" height="200px">
 
-<img src="assets/jquery.png" width="250px" height="250px">
+<img src="assets/wordpress.png" width="200px" height="200px">
 
-<img src="assets/php.png" width="250px" height="250px">
-
-<img src="assets/mysql.png" width="250px" height="250px">
-
-<img src="assets/wordpress.png" width="250px" height="250px">
-
-<img src="assets/git.png" width="250px" height="250px">
-
-<img src="assets/github.png" width="250px" height="250px">
-
+<img src="assets/git.png" width="200px" height="200px">
+</p>
+<p align="center">
+<img src="assets/github.png" width="200px" height="200px">
 </p>
 
 <h3 align="left">Designing:</h3>
 <p align="center">
 
-<img src="assets/figma.png" width="250px" height="250px">
+<img src="assets/figma.png" width="200px" height="200px">
 
-<img src="assets/photoshop.png" width="250px" height="250px">
+<img src="assets/photoshop.png" width="200px" height="200px">
 
-<img src="assets/illustrator.png" width="250px" height="250px">
+<img src="assets/illustrator.png" width="200px" height="200px">
   
 </p>
 
 <h3>Others Information:</h3>
 <p align="center">
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifurrahman117&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api?username=mdsaifurrahman117&show_icons=true&hide=prs" />
+<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifurrahman117&layout=compact" />
+<img width="320px" src="https://github-readme-stats.vercel.app/api?username=mdsaifurrahman117&show_icons=true&show=prs_merged" />
 </p>
 
 <p align="center">
