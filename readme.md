@@ -16,116 +16,57 @@ I'm a frontend-based web developer, skillful at designing and developing high-qu
 - 📄 Know about my experiences [https://mdsaifurrahman-resume.netlify.app/](https://mdsaifurrahman-resume.netlify.app/)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
-  <img src="assets/C.png" width="50px" height="50px">
-</a>
+<p align="center"> 
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="assets/html-5.png" width="50px" height="50px">
-</a>
+<img src="assets/c-language.png" width="250px" height="250px">
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="assets/css-3.png" width="50px" height="50px">
-</a>
+<img src="assets/html.png" width="250px" height="250px">
 
-<a href="https://www.sass-lang.com/" target="_blank" rel="noreferrer"> 
-  <img src="assets/sass.png" width="50px" height="50px">
-</a>
+<img src="assets/css.png" width="250px" height="250px">
 
-<a href="https://www.getbootstrap.com/" target="_blank" rel="noreferrer"> 
-  <img src="assets/bootstrap.png" width="50px" height="50px">
-</a>
+<img src="assets/sass.png" width="250px" height="250px">
 
-<a href="https://www.tailwind.com/" target="_blank" rel="noreferrer"> 
-  <img src="assets/tailwind-css.png" width="50px" height="50px">
-</a>
+<img src="assets/bootstrap.png" width="250px" height="250px">
 
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-  <img src="assets/js.png" width="50px" height="50px">
-</a>
+<img src="assets/tailwind.png" width="250px" height="250px">
 
-<a href="https://www.w3schools.com/jquery/" target="_blank" rel="noreferrer"> 
-  <img src="assets/jquery.png" width="50px" height="50px">
-</a>
+<img src="assets/javascript.png" width="250px" height="250px">
 
-<a href="https://www.react.dev/" target="_blank" rel="noreferrer"> 
-  <img src="assets/React.png" width="50px" height="50px">
-</a>
+<img src="assets/jquery.png" width="250px" height="250px">
 
-<a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="assets/Next.js.png" width="50px" height="50px">
-</a>
+<img src="assets/php.png" width="250px" height="250px">
 
-<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> 
-  <img src="assets/framer-motion.png" width="50px" height="50px">
-</a>
+<img src="assets/mysql.png" width="250px" height="250px">
 
-<a href="https://www.gsap.com" target="_blank" rel="noreferrer"> 
-  <img src="assets/GSAP.png" width="100px" height="40px">
-</a>
+<img src="assets/wordpress.png" width="250px" height="250px">
 
-<a href="https://www.jwt.io/" target="_blank" rel="noreferrer"> 
-  <img src="assets/jwt.png" width="50px" height="50px">
-</a>
+<img src="assets/git.png" width="250px" height="250px">
 
-<a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> 
-  <img src="assets/node.png" width="50px" height="50px">
-</a>
+<img src="assets/github.png" width="250px" height="250px">
 
-<a href="https://www.expressjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="assets/express-js.png" width="50px" height="50px">
-</a>
+</p>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="assets/MongoDB.png" width="50px" height="50px">
-</a>
+<h3 align="left">Designing:</h3>
+<p align="center">
 
-<a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer"> 
-  <img src="assets/php.png" width="50px" height="50px">
-</a>
+<img src="assets/figma.png" width="250px" height="250px">
 
-<a href="https://www.w3schools.com/mysql/" target="_blank" rel="noreferrer"> 
-  <img src="assets/MySQL.png" width="50px" height="50px">
-</a>
+<img src="assets/photoshop.png" width="250px" height="250px">
 
-<a href="https://www.wordpress.org/" target="_blank" rel="noreferrer"> 
-  <img src="assets/wordpress.png" width="50px" height="50px">
-</a>
-
-<a href="https://www.firebase.google.com/" target="_blank" rel="noreferrer"> 
-  <img src="assets/firebase.png" width="50px" height="50px">
-</a>
-
-<a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="assets/git.png" width="50px" height="50px">
-</a>
-
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"> 
-  <img src="assets/github.png" width="50px" height="50px">
-</a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="assets/figma.png" width="50px" height="50px">
-</a>
-
-<a href="https://www.adobe.com/products/photoshop/" target="_blank" rel="noreferrer"> 
-  <img src="assets/photoshop.png" width="50px" height="50px">
-</a>
-
-<a href="https://www.adobe.com/products/illustrator/" target="_blank" rel="noreferrer"> 
-  <img src="assets/illustrator.png" width="50px" height="50px">
-</a>
+<img src="assets/illustrator.png" width="250px" height="250px">
   
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifurrahman117&layout=compact)
+<h3>Others Information:</h3>
+<p align="center">
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsaifurrahman117&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=mdsaifurrahman117&show_icons=true&hide=prs" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsaifurrahman117&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdsaifurrahman117) 
-
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=mdsaifurrahman117" />
+</p>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
