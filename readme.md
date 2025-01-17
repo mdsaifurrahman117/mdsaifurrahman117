@@ -1,4 +1,4 @@
-![banner link](banner.jpg)
+![banner link](Banner.gif)
 
 <h1 align="center">Hi 👋, I'm MD Saifur Rahman</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
