@@ -1,9 +1,9 @@
-![banner link](Banner.gif)
+![banner link](new-banner.gif)
 
-<h1 align="center">Hi 👋, I'm MD Saifur Rahman</h1>
+<h1 align="center">Hi, I'm MD Saifur Rahman</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 
-I'm a frontend-based web developer, skillful at designing and developing high-quality websites that play a central role in leading overall business success. In addition to my professional work, I am passionate about self-learning and staying up-to-date with the latest developments in the field.
+<p align="justify">I'm a frontend-based web developer, skillful at designing and developing high-quality websites that play a central role in leading overall business success. In addition to my professional work, I am passionate about self-learning and staying up-to-date with the latest developments in the field.</p>
 
 - 🔭 I’m currently working as a **frontend developer.**
 
