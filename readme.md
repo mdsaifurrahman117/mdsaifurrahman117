@@ -1,9 +1,9 @@
-![banner link](new-banner.gif)
+<img src="Benner.gif">
 
 <h1 align="center">Hi, I'm MD Saifur Rahman</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 
-<p align="justify">I'm a frontend-based web developer, skillful at designing and developing high-quality websites that play a central role in leading overall business success. In addition to my professional work, I am passionate about self-learning and staying up-to-date with the latest developments in the field.</p>
+<p align="center">I'm a frontend-based web developer, skillful at designing and developing high-quality websites that play a central role in leading overall business success. In addition to my professional work, I am passionate about self-learning and staying up-to-date with the latest developments in the field.</p>
 
 - 🔭 I’m currently working as a **frontend developer.**
 
@@ -15,26 +15,34 @@
 
 - 📄 Know about my experiences [https://mdsaifurrahman-resume.netlify.app/](https://mdsaifurrahman-resume.netlify.app/)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
+
 <p align="center">
 <img src="assets/c-language.png" width="200px" height="200px">
 
+<img src="assets/javascript.png" width="200px" height="200px">
+
 <img src="assets/html.png" width="200px" height="200px">
 
+<br>
+
 <img src="assets/css.png" width="200px" height="200px">
+
+<img src="assets/sass.png" width="200px" height="200px">
+
 </p>
 
 <p align="center">
-<img src="assets/sass.png" width="200px" height="200px">
 
 <img src="assets/bootstrap.png" width="200px" height="200px">
 
 <img src="assets/tailwind.png" width="200px" height="200px">
-</p>
-<p align="center">
-<img src="assets/javascript.png" width="200px" height="200px">
 
 <img src="assets/jquery.png" width="200px" height="200px">
+
+</p>
+<p align="center">
+
 
 <img src="assets/php.png" width="200px" height="200px">
 </p>
